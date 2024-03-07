@@ -1,0 +1,26 @@
+{
+  "name": "smarttask-tea",
+  "version": "1.0.0",
+  "description": "Welcome to SmartTask! SmartTask is an intelligent task management system designed to streamline your workflow and boost productivity. Whether you're a busy professional, a student, or a freelancer, SmartTask provides an intuitive platform to organize tasks, set deadlines, and collaborate with team members. Say goodbye to chaos and hello to efficiency with SmartTask",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/1senyi1/SmartTask.git"
+  },
+  "keywords": [
+  "sample",
+  "npm",
+  "package"
+  ],
+  "author": "1senyi1",
+  "license": "MIT",
+  "dependencies": {
+  "lodash": "^4.17.21",
+  "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+  "react": ">=16.8.0",
+  "react-dom": ">=16.8.0"
+  }
+  }
